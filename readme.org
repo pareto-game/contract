@@ -1,0 +1,17 @@
+#+TITLE: pareto readme
+#+STARTUP: content
+#+OPTIONS: toc:2
+#+STARTUP: indent
+
+* project
+Pareto Game is an open source decentralized welfare lottery machine based on SERO contract. Its design goal is to solve the problem of centralized black box in the field of welfare lottery, and make the dividend and lottery process fair and transparent.
+
+* project official web page
+https://paretogame.com
+
+* contract address
+3YNjx3c4h9zVkBzZmCCBVisceU9aoJPLQuWHtG4nDZFFqwpukH3tR73ty4ZTghoZ7f4CuGZWhnuTYhyubpdWEc6k
+
+
+* end
+welcome to play it, and enjoy it.
